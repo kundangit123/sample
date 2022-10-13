@@ -1,1 +1,1 @@
-console.log('hello')
+console.log('sample statement:hello')
